@@ -1,6 +1,0 @@
-  jQuery(document).ready(function() {
-    jQuery('input.MailPressFormSubmit').val('Подписаться');
-        jQuery("img.metric").attr("src","/wp-content/plugins/fake-metric-img/img-new.png?"+Math.random());
-        jQuery('.main a').attr('target', '_blank');
-        jQuery("a[href$='.jpg'],a[href$='.png'],a[href$='.gif']").fancybox();
-  });
