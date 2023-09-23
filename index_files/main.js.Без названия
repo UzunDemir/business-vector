@@ -1,0 +1,9 @@
+jQuery(document).ready(function(){
+	jQuery('.new-slides-slick').slick({
+    	dots: false,
+		speed: 600,
+		slidesToShow: 1,
+  		autoplay: true,
+  		arrows: false
+  	});
+});
