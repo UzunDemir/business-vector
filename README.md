@@ -1,5 +1,7 @@
 # [beautifulcode.sber.ru](https://www.xn--80aa3anexr8c.xn--p1acf/tpost/78e8ov6zo1-konkurs-krasoti-koda)
 
+https://github.com/UzunDemir/business-vector/blob/main/index_files/photo.png
+
 
 
 ## Конкурс красоты кода
