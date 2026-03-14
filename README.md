@@ -1,4 +1,4 @@
-# beautifulcode.sber.ru
+# [beautifulcode.sber.ru](https://www.xn--80aa3anexr8c.xn--p1acf/tpost/78e8ov6zo1-konkurs-krasoti-koda)
 
 ## Конкурс красоты кода
 
